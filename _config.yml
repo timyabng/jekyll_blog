@@ -11,12 +11,12 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : James' Docker-Driven Blog
+title : Jekyll Docker-Driven Blog
 tagline: A blog isn't just about words or Docker
 author :
-  name : James Turnbull
-  email : james@example.com
-  github : jamtur01
+  name : timyabng
+  email : timyabng@example.com
+  github : timyabng
   twitter : kartar
   feedburner : feedname
 
